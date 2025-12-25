@@ -46,3 +46,6 @@ Run backup script with optional type:
 ./backup.sh incremental
 ./backup.sh differential
 ./backup.sh   # Uses default type in backup.conf
+```
+Note: Some code snippets were assisted by AI tools (ChatGPT), but all logic and modifications were fully understood and implemented by the author.
+
